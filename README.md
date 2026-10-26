@@ -25,10 +25,9 @@
 <a href="#professional-notes" title="Full professional notes"><img src="assets/atlas-37.webp" width="100%" align="top" alt="Full professional notes" /></a><br clear="all" />
 </div>
 
+<a id="professional-notes"></a>
 <details>
 <summary>Read the complete professional notes</summary>
-
-<a id="professional-notes"></a>
 
 ### Project links
 
@@ -60,7 +59,7 @@ C# · .NET · ASP.NET Core · EF Core · SQL Server · Redis
 - **Delivery & collaboration:** Git, code review, xUnit, integration testing, troubleshooting, structured logging, mentoring, technical documentation.
 - **Supporting interfaces:** Razor Pages, React, TypeScript, Angular, SignalR.
 
-### Learning archive
+### Educational repositories
 
 Hands-on educational projects, separate from my professional systems.
 
