@@ -1,31 +1,17 @@
 <p align="center">
-  <img src="assets/folio-introduction.webp" width="100%" alt="Hesam Shoushtarian — Senior .NET Backend Developer. Financial systems and banking integrations. An engineering folio showing the transition from structural engineering to software and financial systems." />
+  <img src="assets/engineering-folio.webp" width="100%" alt="Hesam Shoushtarian — Senior .NET Backend Developer. A continuous engineering folio presenting financial software experience, API Simulation Lab, SabaPay, the C#, .NET, ASP.NET Core, SQL Server and Redis toolkit, and the Mango, MagicVilla and Resort learning archive. Project links and accessible text are available below." />
 </p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hesam-shoushtarian/">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="#selected-work">Selected work</a> &nbsp; / &nbsp;
-  <a href="#technical-focus">Toolkit</a> &nbsp; / &nbsp;
-  <a href="#learning-archive">Learning archive</a>
-</p>
-
-## Selected work
-
-<a href="https://www.linkedin.com/in/hesam-shoushtarian/overlay/1792921153916/single-media-viewer/?profileId=ACoAADPO0TcBXcJw4hNWozZffPdh_0NPFdfv3d4">
-  <img src="assets/api-simulation-lab.webp" width="100%" alt="API Simulation Lab — repeatable scenarios for development and QA. Open the case study on LinkedIn." />
-</a>
-
-[View the API simulation case study ↗](https://www.linkedin.com/in/hesam-shoushtarian/overlay/1792921153916/single-media-viewer/?profileId=ACoAADPO0TcBXcJw4hNWozZffPdh_0NPFdfv3d4)
-
-<a href="https://www.linkedin.com/in/hesam-shoushtarian/overlay/1792908003799/single-media-viewer/?profileId=ACoAADPO0TcBXcJw4hNWozZffPdh_0NPFdfv3d4">
-  <img src="assets/sabapay.webp" width="100%" alt="SabaPay — merchant discovery and aggregation. First place, SabaTech Hackathon, developed in a two-person team. Open the collaborative project highlight on LinkedIn." />
-</a>
-
-[View the SabaPay project highlight ↗](https://www.linkedin.com/in/hesam-shoushtarian/overlay/1792908003799/single-media-viewer/?profileId=ACoAADPO0TcBXcJw4hNWozZffPdh_0NPFdfv3d4)
 
 <details>
-<summary>Background & professional experience</summary>
+<summary>Open project links & professional details</summary>
 
+### Project links
+
+- [LinkedIn — professional background & contact](https://www.linkedin.com/in/hesam-shoushtarian/)
+- [API Simulation Lab — view case study](https://www.linkedin.com/in/hesam-shoushtarian/overlay/1792921153916/single-media-viewer/?profileId=ACoAADPO0TcBXcJw4hNWozZffPdh_0NPFdfv3d4)
+- [SabaPay — view collaborative project highlight](https://www.linkedin.com/in/hesam-shoushtarian/overlay/1792908003799/single-media-viewer/?profileId=ACoAADPO0TcBXcJw4hNWozZffPdh_0NPFdfv3d4)
+
+### Background & professional experience
 I build financial systems, banking integrations, and investment platforms with .NET. My focus is API design, domain modeling, data consistency, and services that are straightforward to maintain and troubleshoot.
 
 At **SabaTech**, I work on token management, fund analytics, financial API simulation, and investment services. Previously, at **AVA Etminan**, I developed brokerage, supply chain finance, and corporate payment capabilities. I also independently delivered a booking and commerce platform backend and its administration panel.
@@ -40,26 +26,16 @@ I contribute through code review, mentoring, and collaboration with product, QA,
 
 The illustrations are visual interpretations of my work. The public learning repositories below are separate educational projects.
 
-</details>
+### Technical focus
 
-## Technical focus
-
-`C#` &nbsp; `.NET` &nbsp; `ASP.NET Core` &nbsp; `EF Core` &nbsp; `SQL Server` &nbsp; `Redis`
-
-<details>
-<summary>Architecture, tooling & supporting interfaces</summary>
+C# · .NET · ASP.NET Core · EF Core · SQL Server · Redis
 
 - **Backend & architecture:** REST APIs, API integration, Clean Architecture, DDD, CQRS, dependency injection.
 - **Data & reliability:** Distributed caching, transactions, data validation, authentication, authorization.
 - **Delivery & collaboration:** Git, code review, xUnit, integration testing, troubleshooting, structured logging, mentoring, technical documentation.
 - **Supporting interfaces:** Razor Pages, React, TypeScript, Angular, SignalR.
 
-</details>
-
-## Learning archive
-
-<details>
-<summary>Mango Microservices · MagicVilla API · Resort MVC & more</summary>
+### Learning archive
 
 Hands-on educational projects, separate from my professional systems.
 
@@ -74,7 +50,3 @@ Hands-on educational projects, separate from my professional systems.
 - [Earlier frontend practice](https://github.com/s-hesam-s?tab=repositories&language=html) — HTML and web interface exercises.
 
 </details>
-
----
-
-[Professional background & contact ↗](https://www.linkedin.com/in/hesam-shoushtarian/)
