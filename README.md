@@ -1,69 +1,63 @@
-<p align="center">
-  <img src="assets/profile-banner.svg" alt="Hesam Shoushtarian — Senior .NET Backend Developer, Financial Systems" width="100%" />
+<p>
+  <img src="assets/profile-banner.svg" alt="Hesam Shoushtarian — Senior .NET Backend Developer" width="100%" />
 </p>
 
-<p align="center">
-  <strong>Financial systems · Banking integrations · Investment platforms</strong><br />
-  C# · ASP.NET Core · Entity Framework Core · SQL Server · Redis
-</p>
+I build financial systems, banking integrations, and investment platforms with .NET. My focus is API design, domain modeling, data consistency, and services that are straightforward to maintain and troubleshoot.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hesam-shoushtarian/">LinkedIn</a> ·
-  <a href="#selected-professional-work">Professional work</a> ·
-  <a href="#public-learning-projects">Public projects</a> ·
-  <a href="#case-studies">Case studies</a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/hesam-shoushtarian/) &nbsp; / &nbsp; [Selected work](#selected-work) &nbsp; / &nbsp; [Learning projects](#learning-projects)
 
-## About me
+## Selected work
 
-I'm Hesam, a Senior .NET Backend Developer working on financial systems, banking integrations, and investment platforms. I focus on API design, domain modeling, data consistency, and services that are straightforward to maintain and troubleshoot.
+**Financial API Simulation Platform** &nbsp; · &nbsp; [Case study ↗](https://www.linkedin.com/in/hesam-shoushtarian/overlay/1792921153916/single-media-viewer/?profileId=ACoAADPO0TcBXcJw4hNWozZffPdh_0NPFdfv3d4)
+
+A simulation platform for financial, payment, identity, and SMS APIs, with a React/TypeScript administration panel for repeatable development and QA scenarios.
+
+**SabaPay** &nbsp; · &nbsp; First place, SabaTech Hackathon &nbsp; · &nbsp; [Project highlight ↗](https://www.linkedin.com/in/hesam-shoushtarian/overlay/1792908003799/single-media-viewer/?profileId=ACoAADPO0TcBXcJw4hNWozZffPdh_0NPFdfv3d4)
+
+Merchant discovery and aggregation, developed collaboratively across frontend and backend in a two-person team.
+
+<details>
+<summary>More professional experience</summary>
 
 At **SabaTech**, I work on token management, fund analytics, financial API simulation, and investment services. Previously, at **AVA Etminan**, I developed brokerage, supply chain finance, and corporate payment capabilities. I also independently delivered a booking and commerce platform backend and its administration panel.
 
+- **Credentials and tokens** — Designed a central service for obtaining, reusing, renewing, and securely storing provider tokens, using persistent SQL storage and Redis caching.
+- **Investment analytics** — Developed fund return calculations and historical NAV processing, including validation of incomplete data and automated calculation tests.
+- **Banking and brokerage** — Developed banking integrations, electronic bill-of-exchange workflows, corporate payment capabilities, and accounting automation.
+- **Booking and commerce** — Independently delivered backend and administration features for bookings, orders, wallets, commissions, and inventory, with transaction controls and automated tests.
+
 I contribute through code review, mentoring, and collaboration with product, QA, frontend, and infrastructure teams. My earlier background in civil engineering and computational structural modeling informs how I approach complex systems.
-
-## Selected professional work
-
-| Area | My contribution |
-| --- | --- |
-| **Financial API simulation** | Built a simulation platform for financial, payment, identity, and SMS APIs with a React/TypeScript administration panel, supporting repeatable development and QA scenarios. |
-| **Credentials and tokens** | Designed a central service for obtaining, reusing, renewing, and securely storing provider tokens, using persistent SQL storage and Redis caching. |
-| **Investment analytics** | Developed fund return calculations and historical NAV processing, including validation of incomplete data and automated calculation tests. |
-| **Banking and brokerage** | Developed banking integrations, electronic bill-of-exchange workflows, corporate payment capabilities, and accounting automation. |
-| **Booking and commerce** | Independently delivered backend and administration features for bookings, orders, wallets, commissions, and inventory, with transaction controls and automated tests. |
 
 These are summaries of professional experience. The public learning repositories below are separate projects.
 
-## Case studies
-
-| Project | What to explore |
-| --- | --- |
-| **Financial API Simulation Platform** | [View the case study on LinkedIn](https://www.linkedin.com/in/hesam-shoushtarian/overlay/1792921153916/single-media-viewer/?profileId=ACoAADPO0TcBXcJw4hNWozZffPdh_0NPFdfv3d4) — API simulation and the administration experience. |
-| **SabaPay · First place, SabaTech Hackathon** | [View the collaborative project highlight](https://www.linkedin.com/in/hesam-shoushtarian/overlay/1792908003799/single-media-viewer/?profileId=ACoAADPO0TcBXcJw4hNWozZffPdh_0NPFdfv3d4) — merchant discovery and aggregation, developed collaboratively across frontend and backend in a two-person team. |
+</details>
 
 ## Technical focus
 
-| Backend & architecture | Data & reliability | Delivery & collaboration |
-| --- | --- | --- |
-| C# / .NET / ASP.NET Core | SQL Server / EF Core | Git / code review |
-| REST APIs / API integration | Redis / distributed caching | xUnit / integration testing |
-| Clean Architecture / DDD | Transactions / data validation | Troubleshooting / structured logging |
-| CQRS / dependency injection | Authentication / authorization | Mentoring / technical documentation |
+`C#` &nbsp; `ASP.NET Core` &nbsp; `EF Core` &nbsp; `SQL Server` &nbsp; `Redis`
 
-For administration panels and supporting web interfaces, I also work with **Razor Pages, React, TypeScript, Angular, and SignalR**.
-
-## Public learning projects
-
-The repositories in this section document hands-on learning. They are presented as educational projects rather than the source code of my professional systems.
-
-| Repository | Focus | Structure to explore |
-| --- | --- | --- |
-| [**Mango Microservices**](https://github.com/s-hesam-s/Mango_Microservices) | .NET microservices and commerce workflows | Gateway, authentication, products, cart, orders, messaging, and rewards services. |
-| [**MagicVilla API · Part 2**](https://github.com/s-hesam-s/MagicVilla_API-Part2) | ASP.NET Core Web API | API versioning, authentication and token handling, exception handling, and a web client. |
-| [**Resort MVC**](https://github.com/s-hesam-s/Resort_MVC) | A layered ASP.NET Core application | Domain, Application, Infrastructure, and Web projects; booking, payment, and dashboard components. |
+API integration · Clean Architecture · Domain-driven design · Data consistency · Automated testing
 
 <details>
-<summary><strong>More learning repositories</strong></summary>
+<summary>Architecture, tooling & supporting interfaces</summary>
+
+- **Backend & architecture:** .NET, REST APIs, API integration, Clean Architecture, DDD, CQRS, dependency injection.
+- **Data & reliability:** SQL Server, EF Core, Redis, distributed caching, transactions, data validation, authentication, authorization.
+- **Delivery & collaboration:** Git, code review, xUnit, integration testing, troubleshooting, structured logging, mentoring, technical documentation.
+- **Supporting interfaces:** Razor Pages, React, TypeScript, Angular, SignalR.
+
+</details>
+
+## Learning projects
+
+Hands-on educational projects, separate from my professional systems.
+
+- [**Mango Microservices**](https://github.com/s-hesam-s/Mango_Microservices) — .NET microservices with gateway, authentication, products, cart, orders, messaging, and rewards services.
+- [**MagicVilla API · Part 2**](https://github.com/s-hesam-s/MagicVilla_API-Part2) — ASP.NET Core Web API, versioning, authentication and token handling, exception handling, and a web client.
+- [**Resort MVC**](https://github.com/s-hesam-s/Resort_MVC) — A layered application with Domain, Application, Infrastructure, and Web projects; booking, payment, and dashboard components.
+
+<details>
+<summary>More learning repositories</summary>
 
 - [Minimal API Coupon Demo](https://github.com/s-hesam-s/MinimalAPIDemo_Coupon) — a focused ASP.NET Core Minimal API exercise.
 - [CodingWiki EF](https://github.com/s-hesam-s/CodingWiki_EF) — Entity Framework learning exercises.
@@ -74,6 +68,6 @@ The repositories in this section document hands-on learning. They are presented 
 
 </details>
 
-## Connect
+---
 
-For my professional background and project highlights, visit [LinkedIn](https://www.linkedin.com/in/hesam-shoushtarian/).
+[Professional background & contact ↗](https://www.linkedin.com/in/hesam-shoushtarian/)
