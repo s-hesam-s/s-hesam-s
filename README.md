@@ -1,5 +1,5 @@
 <p>
-  <img src="assets/profile-banner.svg" alt="Hesam Shoushtarian — Senior .NET Backend Developer" width="100%" />
+  <img src="assets/profile-banner.svg?v=2" alt="Hesam Shoushtarian — Senior .NET Backend Developer" width="100%" />
 </p>
 
 I build financial systems, banking integrations, and investment platforms with .NET. My focus is API design, domain modeling, data consistency, and services that are straightforward to maintain and troubleshoot.
