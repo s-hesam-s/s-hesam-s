@@ -1,24 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="title desc">
   <title id="title">Hesam Shoushtarian</title>
-  <desc id="desc">Senior .NET Backend Developer. Financial systems, banking integrations, and investment platforms.</desc>
-  <defs>
-    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101f35"/><stop offset="1" stop-color="#102e3a"/></linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#92c9cc" stroke-opacity=".055"/></pattern>
-  </defs>
-  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
-  <rect width="1200" height="300" rx="16" fill="url(#grid)"/>
-  <rect x="48" y="54" width="5" height="190" rx="2.5" fill="#5ee0c1"/>
+  <desc id="desc">Senior .NET Backend Developer, focused on financial systems.</desc>
+  <rect width="1200" height="180" rx="12" fill="#111c2b"/>
   <g font-family="Segoe UI,Arial,sans-serif">
-    <text x="78" y="87" font-size="13" font-weight="600" letter-spacing="3" fill="#5ee0c1">ENGINEERING FINANCIAL SYSTEMS</text>
-    <text x="75" y="147" font-size="47" font-weight="700" letter-spacing="-.8" fill="#f3f7fc">Hesam Shoushtarian</text>
-    <text x="78" y="186" font-size="24" fill="#d3e0ee">Senior .NET Backend Developer</text>
-    <text x="78" y="226" font-size="15" fill="#a7bfce">API DESIGN  /  DATA CONSISTENCY  /  RELIABLE INTEGRATIONS</text>
-    <g transform="translate(924 66)">
-      <rect width="210" height="168" rx="13" fill="#0b1b2c" stroke="#62879b" stroke-opacity=".35"/>
-      <text x="24" y="43" font-size="14" letter-spacing="2" fill="#91afc4">BACKEND FOCUS</text>
-      <path d="M24 61H186" stroke="#385365"/>
-      <text x="24" y="97" font-size="25" font-weight="600" fill="#f3f7fc">.NET</text>
-      <text x="24" y="131" font-size="16" fill="#5ee0c1">APIs  ·  SQL  ·  Redis</text>
-    </g>
+    <text x="44" y="78" font-size="48" font-weight="600" letter-spacing="-.7" fill="#f2f5f9">Hesam Shoushtarian</text>
+    <text x="46" y="122" font-size="26" fill="#b6c3d1">Senior .NET Backend Developer</text>
+    <circle cx="896" cy="72" r="4" fill="#7dd6c1"/>
+    <text x="912" y="79" font-size="20" fill="#a7c9c7" letter-spacing=".3">FINANCIAL SYSTEMS</text>
   </g>
 </svg>
