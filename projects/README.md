@@ -8,3 +8,5 @@
 - [SabaPay — Merchant Discovery and Aggregation Platform](sabapay.md) — SabaTech · Two-person team · Hackathon first place
 - [MagicVilla — ASP.NET Core Web API Learning Project](magicvilla.md) — Course-based learning project with personal extensions
 - [Mango — .NET Microservices Learning Project](mango.md) — Course-based learning project with personal extensions
+
+- [Rooyesh — Path of the Sun](rooyesh-adventure.md) — Independent 3D crowdfunding learning game; playable prototype in active development.

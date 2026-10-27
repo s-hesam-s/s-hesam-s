@@ -1,6 +1,6 @@
 # Mango — .NET Microservices Learning Project
 
-<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="../assets/v7/mango-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="../assets/v7/mango-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="../assets/v7/mango-dark.webp" /><img src="../assets/v7/mango-light.webp" width="100%" align="top" alt="Mango" /></picture>
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="../assets/v9/mango-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="../assets/v9/mango-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="../assets/v9/mango-dark.webp" /><img src="../assets/v9/mango-light.webp" width="100%" align="top" alt="Mango" /></picture>
 
 **Course-based learning project with personal extensions**
 

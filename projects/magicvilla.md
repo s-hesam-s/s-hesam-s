@@ -1,6 +1,6 @@
 # MagicVilla — ASP.NET Core Web API Learning Project
 
-<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="../assets/v7/magicvilla-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="../assets/v7/magicvilla-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="../assets/v7/magicvilla-dark.webp" /><img src="../assets/v7/magicvilla-light.webp" width="100%" align="top" alt="MagicVilla" /></picture>
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="../assets/v9/magicvilla-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="../assets/v9/magicvilla-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="../assets/v9/magicvilla-dark.webp" /><img src="../assets/v9/magicvilla-light.webp" width="100%" align="top" alt="MagicVilla" /></picture>
 
 **Course-based learning project with personal extensions**
 

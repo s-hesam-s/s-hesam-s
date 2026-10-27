@@ -1,6 +1,6 @@
 # Financial API Simulation and Administration Platform
 
-<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="../assets/v7/api-simulation-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="../assets/v7/api-simulation-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="../assets/v7/api-simulation-dark.webp" /><img src="../assets/v7/api-simulation-light.webp" width="100%" align="top" alt="API Simulation Lab" /></picture>
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="../assets/v9/api-simulation-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="../assets/v9/api-simulation-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="../assets/v9/api-simulation-dark.webp" /><img src="../assets/v9/api-simulation-light.webp" width="100%" align="top" alt="API Simulation Lab" /></picture>
 
 **SabaTech**
 
