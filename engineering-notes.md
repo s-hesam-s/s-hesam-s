@@ -1,5 +1,7 @@
 # Engineering practice
 
+<a id="architecture"></a>
+
 ### Architecture & delivery
 
 - Model domain boundaries and maintain clear API contracts across financial integrations.
@@ -7,6 +9,8 @@
 - Use validation, structured logging, debugging and technical documentation to make services easier to maintain and troubleshoot.
 - Use automated calculation, unit, integration and API tests where relevant to the implementation.
 - Contribute through code review, mentoring and collaboration with product, QA, frontend and infrastructure teams.
+
+<a id="workflow"></a>
 
 ### Development workflow
 

@@ -32,92 +32,17 @@
 
 <br />
 
-### Architecture & delivery
+<p align="center">
+<a href="engineering-notes.md#architecture" title="Architecture &amp; APIs"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v8/architecture-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v8/architecture-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v8/architecture-dark.webp" /><img src="assets/v8/architecture-light.webp" width="410" align="top" loading="lazy" alt="Architecture &amp; APIs — Domain boundaries · API contracts; Clean Architecture · DDD · CQRS" /></picture></a>
+<a href="engineering-notes.md#architecture" title="Data &amp; reliability"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v8/reliability-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v8/reliability-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v8/reliability-dark.webp" /><img src="assets/v8/reliability-light.webp" width="410" align="top" loading="lazy" alt="Data &amp; reliability — Validation · Transactions · Caching; Unit, integration &amp; API testing" /></picture></a>
+</p>
 
-- Model domain boundaries and maintain clear API contracts across financial integrations.
-- Handle date consistency, incomplete data, transactions, caching, authentication and authorization according to each service's requirements.
-- Use validation, structured logging, debugging and technical documentation to make services easier to maintain and troubleshoot.
-- Use automated calculation, unit, integration and API tests where relevant to the implementation.
-- Contribute through code review, mentoring and collaboration with product, QA, frontend and infrastructure teams.
+<p align="center">
+<a href="skills.md" title="Technical toolkit"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v8/toolkit-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v8/toolkit-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v8/toolkit-dark.webp" /><img src="assets/v8/toolkit-light.webp" width="410" align="top" loading="lazy" alt="Technical toolkit — C# · .NET · EF Core; SQL Server · Redis · PostgreSQL; React · TypeScript · SignalR" /></picture></a>
+<a href="engineering-notes.md#workflow" title="Delivery &amp; practice"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v8/delivery-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v8/delivery-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v8/delivery-dark.webp" /><img src="assets/v8/delivery-light.webp" width="410" align="top" loading="lazy" alt="Delivery &amp; practice — Code review · Mentoring; Git · Docker · Azure DevOps; Reusable prompts · Documentation" /></picture></a>
+</p>
 
-### Development workflow
-
-Use assisted development across analysis, implementation, refactoring, debugging, testing and documentation, supported by reusable prompts, skills, connected workflows and structured project knowledge. I critically review outputs and retain responsibility for technical decisions and validation.
-
-### Technical focus
-
-**Backend & architecture:** C#, .NET, ASP.NET Core, REST APIs, API integration, Clean Architecture, domain-driven design, CQRS, SOLID, dependency injection.
-
-**Data & reliability:** Entity Framework Core, SQL Server, PostgreSQL, SQLite, Redis, transactions, distributed caching, authentication, authorization, xUnit, integration testing and structured logging.
-
-**Supporting interfaces & interaction:** Razor Pages, React, TypeScript, Next.js, Angular, SignalR, JavaScript, Canvas and Three.js.
-
-**Delivery & messaging:** Git, Docker, Azure DevOps, RabbitMQ and Azure Service Bus.
-
-<details>
-<summary><strong>Complete skill inventory · 59 skills</strong></summary>
-
-- C#
-- .NET
-- ASP.NET Core
-- AI-Assisted Software Development
-- Prompt Engineering
-- Microsoft SQL Server
-- Entity Framework Core
-- REST APIs
-- API Integration
-- Clean Architecture
-- Domain-Driven Design
-- Redis
-- Unit Testing
-- AI Workflow Automation
-- Microservices
-- Knowledge Management
-- AI Literacy
-- CQRS
-- SQLite
-- Azure Service Bus
-- Node.js
-- Next.js
-- Three.js
-- SOLID
-- Object-Oriented Programming (OOP)
-- Dependency Injection
-- LINQ
-- SQL
-- T-SQL
-- Azure DevOps
-- Database Design
-- Query Optimization
-- ASP.NET Razor
-- PostgreSQL
-- Distributed Caching
-- Authentication
-- Authorization
-- ASP.NET Core Identity
-- xUnit
-- Integration Testing
-- API Testing
-- Refactoring
-- Git
-- Docker
-- SignalR
-- RabbitMQ
-- Serilog
-- Angular
-- React
-- HTML
-- CSS
-- TypeScript
-- JavaScript
-- Stimulsoft
-- Code Review
-- Mentoring
-- Building Information Modeling (BIM)
-- SAFE
-- ETABS
-
-</details>
+<p><a href="engineering-notes.md" title="Engineering practice &amp; all 59 skills"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v8/full-engineering-dark.webp" /><img src="assets/v8/full-engineering-light.webp" width="100%" align="top" loading="lazy" alt="Engineering practice &amp; all 59 skills" /></picture></a></p>
 
 </details>
 
@@ -127,143 +52,36 @@ Use assisted development across analysis, implementation, refactoring, debugging
 
 <br />
 
-### Background & experience
+<p align="center">
+<a href="professional-notes.md#experience-sabatech" title="SabaTech"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v8/career-sabatech-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v8/career-sabatech-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v8/career-sabatech-dark.webp" /><img src="assets/v8/career-sabatech-light.webp" width="410" align="top" loading="lazy" alt="SabaTech — Senior .NET Backend Developer; Jun 2026 – Present; Financial services &amp; analytics" /></picture></a>
+<a href="professional-notes.md#experience-independent" title="Independent work"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v8/career-independent-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v8/career-independent-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v8/career-independent-dark.webp" /><img src="assets/v8/career-independent-light.webp" width="410" align="top" loading="lazy" alt="Independent work — Senior Full Stack Developer; Mar 2026 – Jun 2026; Backend &amp; administration" /></picture></a>
+</p>
 
-I build financial systems, banking integrations, and investment platforms with .NET. I turn complex business requirements into maintainable services, with a focus on reliable data, clear domain boundaries, and consistent API contracts.
+<p align="center">
+<a href="professional-notes.md#experience-ava" title="AVA Etminan"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v8/career-ava-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v8/career-ava-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v8/career-ava-dark.webp" /><img src="assets/v8/career-ava-light.webp" width="410" align="top" loading="lazy" alt="AVA Etminan — Senior Full Stack Developer; Dec 2021 – Mar 2026; Banking &amp; enterprise integrations" /></picture></a>
+<a href="professional-notes.md#civil-background" title="Civil engineering roots"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v8/career-civil-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v8/career-civil-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v8/career-civil-dark.webp" /><img src="assets/v8/career-civil-light.webp" width="410" align="top" loading="lazy" alt="Civil engineering roots — Carbon Intelligent Business; Aug–Dec 2019; WallSpeed · 2018–2019; BIM · Structural simulation" /></picture></a>
+</p>
 
-My work spans centralized credentials, fund analytics, API integration and simulation, fund-data ingestion, and crowdfunding workflows. Earlier experience includes Open Banking, ERP and accounting integrations, supply chain finance, and securities issuance systems. I also independently develop marketplace backends and administration interfaces covering booking, commerce, wallets, and real-time communication.
+<p align="center">
+<a href="professional-notes.md#education" title="Master’s degree"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v8/masters-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v8/masters-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v8/masters-dark.webp" /><img src="assets/v8/masters-light.webp" width="410" align="top" loading="lazy" alt="Master’s degree — Construction Management; Payame Noor University; 2018–2020 · Grade 18.38/20" /></picture></a>
+<a href="professional-notes.md#education" title="Bachelor’s degree"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v8/bachelors-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v8/bachelors-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v8/bachelors-dark.webp" /><img src="assets/v8/bachelors-light.webp" width="410" align="top" loading="lazy" alt="Bachelor’s degree — Civil Engineering; University of Mazandaran; 2011–2015 · Grade 15/20" /></picture></a>
+</p>
 
-My civil engineering background shaped my analytical approach. Programming, complex problem-solving, and business applications led me into software development and financial systems. I take ownership from design through delivery and maintenance, and contribute through code review, mentoring, and cross-functional collaboration.
+<p align="center">
+<a href="professional-notes.md#courses" title="Courses"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v8/courses-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v8/courses-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v8/courses-dark.webp" /><img src="assets/v8/courses-light.webp" width="410" align="top" loading="lazy" alt="Courses — .NET Backend Bootcamp · 2021; ETABS &amp; SAFE · ICDL · 2014; Bamdad · Mojtama Fanni" /></picture></a>
+<a href="professional-notes.md#publication" title="EPC contract research"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v8/publication-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v8/publication-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v8/publication-dark.webp" /><img src="assets/v8/publication-light.webp" width="410" align="top" loading="lazy" alt="EPC contract research — Construction contract success; Review article · 2019; Engineering · Procurement; Construction" /></picture></a>
+</p>
 
-Based in Tehran Province, Iran. [Professional contact on LinkedIn](https://www.linkedin.com/in/hesam-shoushtarian/)
+<p align="center">
+<a href="professional-notes.md#recognition" title="Hackathon first place"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v8/award-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v8/award-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v8/award-dark.webp" /><img src="assets/v8/award-light.webp" width="410" align="top" loading="lazy" alt="Hackathon first place — SabaPay · Team of two; SabaTech · October 2026" /></picture></a>
+<a href="professional-notes.md#recommendation" title="Peer recommendation"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v8/reference-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v8/reference-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v8/reference-dark.webp" /><img src="assets/v8/reference-light.webp" width="410" align="top" loading="lazy" alt="Peer recommendation — Amir H. J. Sharahi; SabaTech teammate · Oct 2026; Drive · Learning · Persistence" /></picture></a>
+</p>
 
-<details>
-<summary><strong>Career history · five roles</strong></summary>
+<p align="center">
+<a href="professional-notes.md#languages" title="Languages"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v8/languages-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v8/languages-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v8/languages-dark.webp" /><img src="assets/v8/languages-light.webp" width="410" align="top" loading="lazy" alt="Languages — Persian · Native / bilingual; English · Professional working" /></picture></a>
+</p>
 
-#### Senior .NET Backend Developer · SabaTech
-
-**Jun 2026 – Present** · Full-time · On-site
-
-Develop and improve .NET backend services for financial data and investment operations, combining end-to-end service development with substantial contributions to existing platforms.
-
-- Built centralized credential and token management for multiple consuming applications, covering acquisition, reuse, renewal, encrypted storage, Redis caching, persistent state, and account administration.
-- Built a financial analytics service for cumulative and investment return calculations and historical fund net asset value aggregation, with domain validation and automated calculation tests.
-- Extended a financial API gateway to expose fund statistics, asset composition, return comparisons, and investment calculations from upstream services. Improved response validation, error handling, and date consistency in return series.
-- Built an internal API simulation platform and React/TypeScript admin UI, enabling testing independently of live financial market, payment, identity, and SMS services, reproducible failures, and fewer live-service calls.
-- Played a major role in refactoring fund-data ingestion while preserving business rules and API contracts, improving date and historical-data consistency, reducing errors and duplicate processing, and simplifying diagnosis with validation and structured logs.
-- Developed and extensively refactored crowdfunding features covering investment limits, investor and project company receipts, document workflows, and financial market integrations.
-- Contributed to maintenance of portfolio risk services, production troubleshooting, and technical documentation, working with product, QA, frontend, and infrastructure teams.
-- Apply assisted development across analysis, coding, debugging, tests, and documentation, using reusable prompts, skills, and connected tools, with critical output review and structured project knowledge.
-
-**Core technologies:** C#, .NET, ASP.NET Core, Entity Framework Core, SQL Server, Redis, React, TypeScript
-
-#### Senior Full Stack Developer · Self-employed
-
-**Mar 2026 – Jun 2026** · Freelance · Remote
-
-Developed and delivered a marketplace platform for services, bookings, and commerce, used by real users. My scope covered the main application's backend and both the backend and frontend of the administration panel.
-
-- Built backend APIs supporting service discovery, booking workflows, product catalogs, shopping carts, and order management.
-- Developed an administration interface with ASP.NET Core Razor Pages to manage platform content, users, services, and operational workflows.
-- Implemented backend capabilities for payments, messaging, and notifications, supporting interactions between customers, service providers, and administrators.
-- Delivered the backend and administration components as an integrated solution supporting the platform's customer-facing applications.
-
-**Core technologies:** C#, .NET, ASP.NET Core, Razor Pages, Entity Framework Core, SQL Server, Redis, SignalR
-
-#### Senior Full Stack Developer · AVA Etminan Asset Management Co.
-
-**Dec 2021 – Mar 2026** · Full-time · Iran · On-site
-
-Developed financial applications and banking integrations for commodity brokerage, supply chain finance, corporate payments, and capital market operations.
-
-- Developed electronic bill-of-exchange supply chain finance modules within commodity exchange order management and brokerage financial operations platforms, improving workflow status tracking and reducing manual entry and follow-up.
-- Integrated bank statements in a brokerage financial operations platform to automate financial controls for commodity exchange sellers and improve discrepancy traceability.
-- Built ERP integrations and automated accounting entries in the brokerage financial operations platform to improve consistency between operational and financial systems.
-- Developed order restriction management in a commodity exchange order management platform.
-- Implemented Open Banking for Tejarat No Insurance corporate payment management.
-- Designed, developed, and delivered a sukuk issuance management system for the Central Asset Management Company.
-- Developed Simorgh Tejarat banking integrations for statements, balances, transfers, and blocking/unblocking funds and accounts.
-- Supported brokerage firms through commodity exchange order management platform setup, service integration, initial data, acceptance testing, issue resolution, and go-live.
-- Mentored and onboarded developers and collaborated with product, QA, frontend, infrastructure, and customer teams.
-
-
-
-#### Computational Structural Engineer · Carbon Intelligent Business
-
-**Aug 2019 – Dec 2019** · Full-time · Iran · On-site
-
-Worked in building information modeling (BIM) and digital structural simulation.
-
-
-
-
-
-#### Computational Structural Engineer · WallSpeed
-
-**Jul 2018 – Jul 2019** · Full-time · Iran · On-site
-
-Worked in building information modeling (BIM) and digital structural simulation.
-
-
-
-
-
-</details>
-
-<details>
-<summary><strong>Education, courses, publication & languages</strong></summary>
-
-#### Payame Noor University
-
-Master's degree · Construction Management · Aug 2018 – Jul 2020
-
-Grade: **18.38/20**
-
-#### University of Mazandaran
-
-Bachelor's degree · Civil Engineering · Aug 2011 – Dec 2015
-
-Grade: **15/20**
-
-#### Courses
-
-- C# / .NET Core Backend Development Bootcamp — Bamdad · 2021 · 5 months
-- ETABS & SAFE — Mojtama Fanni · 2014 · 4 months
-- ICDL — Mojtama Fanni · 2014 · 3 months
-
-#### Publication
-
-**A Review of Factors Influencing the Success or Failure of Construction Contracts in EPC Projects**
-
-ماهنامه عمران و پروژه · 2019 (1398)
-
-A review of factors influencing construction contract success or failure in engineering, procurement, and construction projects.
-
-#### Languages
-
-- English — Professional working proficiency
-- Persian — Native or bilingual proficiency
-
-</details>
-
-<details>
-<summary><strong>Recognition & recommendation</strong></summary>
-
-#### First Place — SabaTech Hackathon
-
-SabaTech · October 2026
-
-Won first place as part of the two-person SabaPay team, collaborating across the frontend and .NET backend. [Project and contribution details](projects/sabapay.md).
-
-#### Recommendation
-
-**Amir H. J. Sharahi** · Teammate at SabaTech · October 26, 2026
-
-His recommendation highlights my drive to learn and build, persistence in solving problems, and contribution as a teammate.
-
-[Read the original recommendation on LinkedIn](https://www.linkedin.com/in/hesam-shoushtarian/#recommendations)
-
-</details>
+<p><a href="professional-notes.md" title="Read the complete professional background"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v8/full-professional-dark.webp" /><img src="assets/v8/full-professional-light.webp" width="100%" align="top" loading="lazy" alt="Read the complete professional background" /></picture></a></p>
 
 </details>
 
@@ -273,17 +91,26 @@ His recommendation highlights my drive to learn and build, persistence in solvin
 
 <br />
 
-### Additional educational repositories
+<p align="center">
+<a href="https://github.com/s-hesam-s/Resort_MVC" title="Resort MVC"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v8/archive-resort-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v8/archive-resort-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v8/archive-resort-dark.webp" /><img src="assets/v8/archive-resort-light.webp" width="410" align="top" loading="lazy" alt="Resort MVC — Layered .NET application; Domain · Application · Infrastructure" /></picture></a>
+<a href="https://github.com/s-hesam-s/MinimalAPIDemo_Coupon" title="Minimal API Coupon"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v8/archive-coupon-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v8/archive-coupon-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v8/archive-coupon-dark.webp" /><img src="assets/v8/archive-coupon-light.webp" width="410" align="top" loading="lazy" alt="Minimal API Coupon — Focused API exercise; ASP.NET Core Minimal APIs" /></picture></a>
+</p>
 
-The two featured learning projects are in the Project Atlas. This archive contains the additional public exercises.
+<p align="center">
+<a href="https://github.com/s-hesam-s/CodingWiki_EF" title="CodingWiki EF"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v8/archive-ef-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v8/archive-ef-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v8/archive-ef-dark.webp" /><img src="assets/v8/archive-ef-light.webp" width="410" align="top" loading="lazy" alt="CodingWiki EF — Data access practice; Entity Framework exercises" /></picture></a>
+<a href="https://github.com/s-hesam-s/AzureFundamentals" title="Azure Fundamentals"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v8/archive-azure-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v8/archive-azure-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v8/archive-azure-dark.webp" /><img src="assets/v8/archive-azure-light.webp" width="410" align="top" loading="lazy" alt="Azure Fundamentals — Cloud services practice; Azure learning repository" /></picture></a>
+</p>
 
-- [Resort MVC](https://github.com/s-hesam-s/Resort_MVC) — Layered application with Domain, Application, Infrastructure and Web projects.
-- [Minimal API Coupon Demo](https://github.com/s-hesam-s/MinimalAPIDemo_Coupon) — A focused ASP.NET Core Minimal API exercise.
-- [CodingWiki EF](https://github.com/s-hesam-s/CodingWiki_EF) — Entity Framework learning exercises.
-- [Azure Fundamentals](https://github.com/s-hesam-s/AzureFundamentals) — Azure services and integration exercises.
-- [MagicVilla API — earlier version](https://github.com/s-hesam-s/MagicVilla_API) — Earlier repository in the MagicVilla learning progression.
-- [Bulky MVC](https://github.com/s-hesam-s/Bulky_MVC) — ASP.NET Core MVC learning application.
-- [Earlier frontend practice](https://github.com/s-hesam-s?tab=repositories&language=html) — HTML and web interface exercises.
+<p align="center">
+<a href="https://github.com/s-hesam-s/MagicVilla_API" title="MagicVilla · Early API"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v8/archive-early-api-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v8/archive-early-api-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v8/archive-early-api-dark.webp" /><img src="assets/v8/archive-early-api-light.webp" width="410" align="top" loading="lazy" alt="MagicVilla · Early API — Earlier learning version; API foundations" /></picture></a>
+<a href="https://github.com/s-hesam-s/Bulky_MVC" title="Bulky MVC"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v8/archive-bulky-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v8/archive-bulky-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v8/archive-bulky-dark.webp" /><img src="assets/v8/archive-bulky-light.webp" width="410" align="top" loading="lazy" alt="Bulky MVC — MVC learning application; ASP.NET Core" /></picture></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/s-hesam-s?tab=repositories&amp;language=html" title="Frontend practice"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v8/archive-frontend-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v8/archive-frontend-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v8/archive-frontend-dark.webp" /><img src="assets/v8/archive-frontend-light.webp" width="410" align="top" loading="lazy" alt="Frontend practice — HTML &amp; interface exercises; Early web projects" /></picture></a>
+</p>
+
+<p><a href="learning-archive.md" title="Explore the complete learning archive"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v8/full-archive-dark.webp" /><img src="assets/v8/full-archive-light.webp" width="100%" align="top" loading="lazy" alt="Explore the complete learning archive" /></picture></a></p>
 
 </details>
 

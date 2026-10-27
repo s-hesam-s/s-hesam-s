@@ -1,0 +1,63 @@
+# Technical skill inventory
+
+- C#
+- .NET
+- ASP.NET Core
+- AI-Assisted Software Development
+- Prompt Engineering
+- Microsoft SQL Server
+- Entity Framework Core
+- REST APIs
+- API Integration
+- Clean Architecture
+- Domain-Driven Design
+- Redis
+- Unit Testing
+- AI Workflow Automation
+- Microservices
+- Knowledge Management
+- AI Literacy
+- CQRS
+- SQLite
+- Azure Service Bus
+- Node.js
+- Next.js
+- Three.js
+- SOLID
+- Object-Oriented Programming (OOP)
+- Dependency Injection
+- LINQ
+- SQL
+- T-SQL
+- Azure DevOps
+- Database Design
+- Query Optimization
+- ASP.NET Razor
+- PostgreSQL
+- Distributed Caching
+- Authentication
+- Authorization
+- ASP.NET Core Identity
+- xUnit
+- Integration Testing
+- API Testing
+- Refactoring
+- Git
+- Docker
+- SignalR
+- RabbitMQ
+- Serilog
+- Angular
+- React
+- HTML
+- CSS
+- TypeScript
+- JavaScript
+- Stimulsoft
+- Code Review
+- Mentoring
+- Building Information Modeling (BIM)
+- SAFE
+- ETABS
+
+[Engineering practice](engineering-notes.md) · [Back to profile](README.md)

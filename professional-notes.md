@@ -8,7 +8,11 @@ My civil engineering background shaped my analytical approach. Programming, comp
 
 Based in Tehran Province, Iran. [Professional contact on LinkedIn](https://www.linkedin.com/in/hesam-shoushtarian/)
 
+<a id="career"></a>
+
 ## Career history
+
+<a id="experience-sabatech"></a>
 
 #### Senior .NET Backend Developer · SabaTech
 
@@ -27,6 +31,8 @@ Develop and improve .NET backend services for financial data and investment oper
 
 **Core technologies:** C#, .NET, ASP.NET Core, Entity Framework Core, SQL Server, Redis, React, TypeScript
 
+<a id="experience-independent"></a>
+
 #### Senior Full Stack Developer · Self-employed
 
 **Mar 2026 – Jun 2026** · Freelance · Remote
@@ -39,6 +45,8 @@ Developed and delivered a marketplace platform for services, bookings, and comme
 - Delivered the backend and administration components as an integrated solution supporting the platform's customer-facing applications.
 
 **Core technologies:** C#, .NET, ASP.NET Core, Razor Pages, Entity Framework Core, SQL Server, Redis, SignalR
+
+<a id="experience-ava"></a>
 
 #### Senior Full Stack Developer · AVA Etminan Asset Management Co.
 
@@ -58,6 +66,8 @@ Developed financial applications and banking integrations for commodity brokerag
 
 
 
+<a id="civil-background"></a>
+
 #### Computational Structural Engineer · Carbon Intelligent Business
 
 **Aug 2019 – Dec 2019** · Full-time · Iran · On-site
@@ -68,6 +78,8 @@ Worked in building information modeling (BIM) and digital structural simulation.
 
 
 
+<a id="experience-wallspeed"></a>
+
 #### Computational Structural Engineer · WallSpeed
 
 **Jul 2018 – Jul 2019** · Full-time · Iran · On-site
@@ -77,6 +89,8 @@ Worked in building information modeling (BIM) and digital structural simulation.
 
 
 
+
+<a id="education"></a>
 
 ## Education & qualifications
 
@@ -92,11 +106,15 @@ Bachelor's degree · Civil Engineering · Aug 2011 – Dec 2015
 
 Grade: **15/20**
 
+<a id="courses"></a>
+
 #### Courses
 
 - C# / .NET Core Backend Development Bootcamp — Bamdad · 2021 · 5 months
 - ETABS & SAFE — Mojtama Fanni · 2014 · 4 months
 - ICDL — Mojtama Fanni · 2014 · 3 months
+
+<a id="publication"></a>
 
 #### Publication
 
@@ -106,10 +124,14 @@ Grade: **15/20**
 
 A review of factors influencing construction contract success or failure in engineering, procurement, and construction projects.
 
+<a id="languages"></a>
+
 #### Languages
 
 - English — Professional working proficiency
 - Persian — Native or bilingual proficiency
+
+<a id="recognition"></a>
 
 ## Recognition
 
@@ -118,6 +140,8 @@ A review of factors influencing construction contract success or failure in engi
 SabaTech · October 2026
 
 Won first place as part of the two-person SabaPay team, collaborating across the frontend and .NET backend. [Project and contribution details](projects/sabapay.md).
+
+<a id="recommendation"></a>
 
 #### Recommendation
 
