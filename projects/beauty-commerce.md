@@ -1,6 +1,6 @@
 # Beauty Services and Commerce Platform
 
-<picture><source media="(max-width: 600px)" srcset="../assets/v7/beauty-commerce-mobile-dark.webp#gh-dark-mode-only" /><img src="../assets/v7/beauty-commerce-dark.webp#gh-dark-mode-only" width="100%" align="top" alt="Beauty &amp; Commerce" /></picture><picture><source media="(max-width: 600px)" srcset="../assets/v7/beauty-commerce-mobile-light.webp#gh-light-mode-only" /><img src="../assets/v7/beauty-commerce-light.webp#gh-light-mode-only" width="100%" align="top" alt="Beauty &amp; Commerce" /></picture>
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="../assets/v7/beauty-commerce-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="../assets/v7/beauty-commerce-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="../assets/v7/beauty-commerce-dark.webp" /><img src="../assets/v7/beauty-commerce-light.webp" width="100%" align="top" alt="Beauty &amp; Commerce" /></picture>
 
 **Independent work**
 

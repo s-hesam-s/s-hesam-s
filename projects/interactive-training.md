@@ -1,6 +1,6 @@
 # Interactive Financial Workflow Training Prototypes
 
-<picture><source media="(max-width: 600px)" srcset="../assets/v7/interactive-training-mobile-dark.webp#gh-dark-mode-only" /><img src="../assets/v7/interactive-training-dark.webp#gh-dark-mode-only" width="100%" align="top" alt="Interactive Training" /></picture><picture><source media="(max-width: 600px)" srcset="../assets/v7/interactive-training-mobile-light.webp#gh-light-mode-only" /><img src="../assets/v7/interactive-training-light.webp#gh-light-mode-only" width="100%" align="top" alt="Interactive Training" /></picture>
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="../assets/v7/interactive-training-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="../assets/v7/interactive-training-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="../assets/v7/interactive-training-dark.webp" /><img src="../assets/v7/interactive-training-light.webp" width="100%" align="top" alt="Interactive Training" /></picture>
 
 **SabaTech · Internal prototypes**
 

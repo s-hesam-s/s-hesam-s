@@ -1,6 +1,6 @@
 # SabaPay — Merchant Discovery and Aggregation Platform
 
-<picture><source media="(max-width: 600px)" srcset="../assets/v7/sabapay-mobile-dark.webp#gh-dark-mode-only" /><img src="../assets/v7/sabapay-dark.webp#gh-dark-mode-only" width="100%" align="top" alt="SabaPay" /></picture><picture><source media="(max-width: 600px)" srcset="../assets/v7/sabapay-mobile-light.webp#gh-light-mode-only" /><img src="../assets/v7/sabapay-light.webp#gh-light-mode-only" width="100%" align="top" alt="SabaPay" /></picture>
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="../assets/v7/sabapay-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="../assets/v7/sabapay-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="../assets/v7/sabapay-dark.webp" /><img src="../assets/v7/sabapay-light.webp" width="100%" align="top" alt="SabaPay" /></picture>
 
 **SabaTech · Two-person team · Hackathon first place**
 

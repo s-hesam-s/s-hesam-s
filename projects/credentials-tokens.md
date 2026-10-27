@@ -1,6 +1,6 @@
 # Financial Credential and Token Management Service
 
-<picture><source media="(max-width: 600px)" srcset="../assets/v7/credentials-tokens-mobile-dark.webp#gh-dark-mode-only" /><img src="../assets/v7/credentials-tokens-dark.webp#gh-dark-mode-only" width="100%" align="top" alt="Credentials &amp; Tokens" /></picture><picture><source media="(max-width: 600px)" srcset="../assets/v7/credentials-tokens-mobile-light.webp#gh-light-mode-only" /><img src="../assets/v7/credentials-tokens-light.webp#gh-light-mode-only" width="100%" align="top" alt="Credentials &amp; Tokens" /></picture>
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="../assets/v7/credentials-tokens-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="../assets/v7/credentials-tokens-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="../assets/v7/credentials-tokens-dark.webp" /><img src="../assets/v7/credentials-tokens-light.webp" width="100%" align="top" alt="Credentials &amp; Tokens" /></picture>
 
 **SabaTech**
 
