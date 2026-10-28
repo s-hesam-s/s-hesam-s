@@ -3,6 +3,8 @@ on:
   push:
     branches: [main]
   pull_request:
+  schedule:
+    - cron: '25 4 * * 1'
   workflow_dispatch:
 permissions:
   contents: read
@@ -23,3 +25,8 @@ jobs:
           node-version: '24'
       - run: node --test scripts/check-profile.test.mjs
       - run: node scripts/check-profile.mjs
+
+      - name: Check tracked documentation destinations
+        run: python3 scripts/check_doc_links.py
+      - name: Test documentation link regressions
+        run: python3 -m unittest discover -s tests -p test_doc_links.py
