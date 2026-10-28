@@ -8,6 +8,14 @@ A Persian first-person 3D browser game that turns crowdfunding operations into a
 
 The scenario connects four responsibilities: financial manager, issuer representative, individual investor and corporate investor. It makes the differences between payment, receipt validation, submission, reconciliation, approval and post-funding obligations visible through decisions and actions.
 
+## Actual gameplay preview
+
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="../assets/demos/rooyesh-portfolio-poster.png" /><source type="image/webp" srcset="../assets/demos/rooyesh-portfolio.webp" /><img src="../assets/demos/rooyesh-portfolio.gif" width="100%" alt="Rooyesh · Path of the Sun — actual captured UI states" /></picture>
+
+Actual first-office environment-test capture: entering the room, walking, turning and opening the journal. Playable prototype under active development; the six-environment redesign remains incomplete.
+
+[Local-play and capture notes](https://github.com/s-hesam-s/rooyesh-adventure/blob/main/docs/PORTFOLIO-PREVIEW.md) · [Static capture](../assets/demos/rooyesh-portfolio-poster.png)
+
 ## Engineering contribution
 
 - Modelled financial rules, prerequisites and state transitions independently from scene rendering and interaction.
