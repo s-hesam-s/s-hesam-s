@@ -10,6 +10,12 @@ The implementation combines Ocelot API gateway routing, JWT-based authentication
 
 **Core technologies:** C#, .NET, Ocelot, JWT, Entity Framework Core, Azure Service Bus
 
+## UI tour
+
+<picture><source type="image/webp" srcset="../assets/demos/mango-ui-tour.webp" /><img src="../assets/demos/mango-ui-tour.gif" width="100%" alt="Captured mango UI tour using sample data" /></picture>
+
+Existing Razor views with sample data. Captured UI states; no live API, database or payment transaction. [Run the preview or open the static image](https://github.com/s-hesam-s/Mango_Microservices/blob/master/docs/PREVIEW.md).
+
 [Repository](https://github.com/s-hesam-s/Mango_Microservices)
 
 [Project directory](README.md) · [Back to profile](../README.md) · [LinkedIn projects](https://www.linkedin.com/in/hesam-shoushtarian/details/projects/)

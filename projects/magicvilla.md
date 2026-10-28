@@ -10,6 +10,12 @@ Implemented CRUD endpoints, filtering and pagination, role-based access, and acc
 
 **Core technologies:** C#, ASP.NET Core, ASP.NET Core Identity, Entity Framework Core, SQL Server
 
+## UI tour
+
+<picture><source type="image/webp" srcset="../assets/demos/magicvilla-ui-tour.webp" /><img src="../assets/demos/magicvilla-ui-tour.gif" width="100%" alt="Captured magicvilla UI tour using sample data" /></picture>
+
+Existing Razor views with sample data. Captured UI states; no live API, database or payment transaction. [Run the preview or open the static image](https://github.com/s-hesam-s/MagicVilla_API-Part2/blob/master/docs/PREVIEW.md).
+
 [Repository](https://github.com/s-hesam-s/MagicVilla_API-Part2)
 
 [Project directory](README.md) · [Back to profile](../README.md) · [LinkedIn projects](https://www.linkedin.com/in/hesam-shoushtarian/details/projects/)
