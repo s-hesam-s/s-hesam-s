@@ -12,7 +12,7 @@ The scenario connects four responsibilities: financial manager, issuer represent
 
 <picture><source media="(prefers-reduced-motion: reduce)" srcset="../assets/demos/rooyesh-portfolio-poster.png" /><source type="image/webp" srcset="../assets/demos/rooyesh-portfolio.webp" /><img src="../assets/demos/rooyesh-portfolio.gif" width="100%" alt="Rooyesh · Path of the Sun — actual captured UI states" /></picture>
 
-Actual first-office environment-test capture: entering the room, walking, turning and opening the journal. Playable prototype under active development; the six-environment redesign remains incomplete.
+Earlier first-office environment-test capture showing entry, movement and the journal. All six redesigned environments are now playable locally; this recording shows an earlier build.
 
 [Local-play and capture notes](https://github.com/s-hesam-s/rooyesh-adventure/blob/main/docs/PORTFOLIO-PREVIEW.md) · [Static capture](../assets/demos/rooyesh-portfolio-poster.png)
 
@@ -26,7 +26,18 @@ Actual first-office environment-test capture: entering the room, walking, turnin
 
 ## Current scope
 
-The campaign contains ten chapters and twenty business decisions. Its physical experience is being consolidated into six environments. The redesigned first office is playable; the full six-environment redesign remains in progress.
+The campaign contains ten chapters and twenty validated business decisions across six connected environments. All six redesigned environments are playable locally, with further visual polish and usability review ongoing.
+
+- Review project terms, print and scan a reconciliation sheet, and check the permitted dates before issuer commitment.
+- Calculate and register issuer receipts, assemble the dossier, reconcile submission responses and publish the project.
+- Complete individual purchases through local fingerprint, bank-card and randomized OTP simulations, then reconcile bank and submission states separately.
+- Verify corporate identity and representative authority, calculate remaining capacity, sign and submit documents and reconcile final approvals.
+- Print and emboss the individual investor's certificate, exchange it physically and archive the signed acknowledgement.
+- Register the profit schedule, advance the physical calendar device by three Persian months, reconcile only the first installment and keep three obligations open.
+
+Equipment has state-dependent animation and document pickup, placement and filing. Character handoffs turn the receiver toward the player and transfer the point of view. Contextual guides are optional; keyboard interaction and close document inspection are supported. Independent test entries for six environments and the final courtyard keep the main saved journey separate.
+
+The latest local verification on 2026-11-07 passed 444 Node.js tests and 40 Python maintenance tests. GitHub Actions also passed on Node.js 22 and 24. Browser review covered all environment entry points, the final office drawer and the ending; a full manual playthrough of every mission remains outstanding.
 
 All identities, payments and external-system responses are synthetic and local. The game runs without live banking, payment or financial-market integrations. No measured educational outcomes or production adoption are claimed.
 
