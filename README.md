@@ -47,7 +47,7 @@
 <a href="engineering-notes.md#workflow" title="Delivery &amp; practice"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v12/delivery-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v12/delivery-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v11/delivery-dark.webp" /><img src="assets/v11/delivery-light.webp" width="410" align="top" loading="lazy" alt="Delivery &amp; practice — Code review · Mentoring; Git · Docker · Azure DevOps; Reusable prompts · Documentation" /></picture></a>
 </p>
 
-<p><a href="engineering-notes.md" title="Engineering practice &amp; all 59 skills"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v9/full-engineering-dark.webp" /><img src="assets/v9/full-engineering-light.webp" width="320" align="top" loading="lazy" alt="Engineering practice &amp; all 59 skills" /></picture></a></p>
+<p><a href="engineering-notes.md" title="Engineering practice &amp; all 62 skills"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v9/full-engineering-62-dark.webp" /><img src="assets/v9/full-engineering-62-light.webp" width="320" align="top" loading="lazy" alt="Engineering practice &amp; all 62 skills" /></picture></a></p>
 
 </details>
 
