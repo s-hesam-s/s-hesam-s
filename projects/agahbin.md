@@ -1,6 +1,6 @@
 # AgahBin — Real Estate Search and Listing Explorer
 
-<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="../assets/v13/agahbin-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="../assets/v13/agahbin-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="../assets/v13/agahbin-dark.webp" /><img src="../assets/v13/agahbin-light.webp" width="100%" align="top" alt="AgahBin — Real Estate Search and Listing Explorer. Persian property filters, location matching, and interactive maps." /></picture>
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="../assets/v13/agahbin-type-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="../assets/v13/agahbin-type-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="../assets/v13/agahbin-type-dark.webp" /><img src="../assets/v13/agahbin-type-light.webp" width="100%" align="top" alt="AgahBin — Real Estate Search and Listing Explorer. Persian property filters, location matching, and interactive maps." /></picture>
 
 **Independent full-stack project · Persian RTL interface**
 
