@@ -27,7 +27,7 @@ Use assisted development across analysis, implementation, refactoring, debugging
 **Delivery & messaging:** Git, Docker, Azure DevOps, RabbitMQ and Azure Service Bus.
 
 <details>
-<summary><strong>Complete skill inventory · 59 skills</strong></summary>
+<summary><strong>Complete skill inventory · 62 skills</strong></summary>
 
 - C#
 - .NET
@@ -72,16 +72,19 @@ Use assisted development across analysis, implementation, refactoring, debugging
 - API Testing
 - Refactoring
 - Git
+- Web Mapping
 - Docker
 - SignalR
 - RabbitMQ
 - Serilog
 - Angular
 - React
+- Responsive Web Design
 - HTML
 - CSS
 - TypeScript
 - JavaScript
+- MapLibre
 - Stimulsoft
 - Code Review
 - Mentoring
