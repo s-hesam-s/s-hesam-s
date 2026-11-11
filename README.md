@@ -4,7 +4,7 @@
 <a href="projects/README.md" title="Complete project directory"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/v7/nav-directory-dark.webp" /><img src="assets/v7/nav-directory-light.webp" width="410" align="top" alt="Explore all nine projects" /></picture></a>
 
 <a id="selected-work"></a>
-<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v10/title-atlas-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v10/title-atlas-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v10/title-atlas-dark.webp" /><img src="assets/v10/title-atlas-light.webp" width="100%" align="top" alt="Project Atlas — nine projects, each with its own complete description." /></picture>
+<picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v13/title-atlas-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v13/title-atlas-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v13/title-atlas-dark.webp" /><img src="assets/v13/title-atlas-light.webp" width="100%" align="top" alt="Project Atlas — selected engineering projects." /></picture>
 
 <p align="center">
 <a href="projects/beauty-commerce.md" title="Beauty Services and Commerce Platform"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v9/beauty-commerce-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v9/beauty-commerce-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v9/beauty-commerce-dark.webp" /><img src="assets/v9/beauty-commerce-light.webp" width="410" align="top" alt="Beauty Services and Commerce Platform — Booking, wallets and commerce; independent backend and administration delivery." /></picture></a>
@@ -23,6 +23,7 @@
 
 <p align="center">
 <a href="projects/rooyesh-adventure.md" title="Rooyesh — Path of the Sun"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v10/rooyesh-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v10/rooyesh-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v10/rooyesh-dark.webp" /><img src="assets/v10/rooyesh-light.webp" width="410" align="top" alt="Rooyesh — Path of the Sun. First-person 3D crowdfunding learning game; playable prototype in development." /></picture></a>
+<a href="projects/agahbin.md" title="AgahBin — Real Estate Search and Listing Explorer"><picture><source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/v13/agahbin-mobile-dark.webp" /><source media="(max-width: 600px)" srcset="assets/v13/agahbin-mobile-light.webp" /><source media="(prefers-color-scheme: dark)" srcset="assets/v13/agahbin-dark.webp" /><img src="assets/v13/agahbin-light.webp" width="410" align="top" alt="AgahBin — Real Estate Search and Listing Explorer. Persian property filters, location matching, and interactive maps." /></picture></a>
 </p>
 
 <p align="center">
@@ -123,4 +124,3 @@
 *Civil engineering roots. Software engineering practice.*
 
 [LinkedIn](https://www.linkedin.com/in/hesam-shoushtarian/) · [Repositories](https://github.com/s-hesam-s?tab=repositories)
-
