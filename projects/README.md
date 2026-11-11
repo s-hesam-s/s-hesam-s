@@ -10,3 +10,4 @@
 - [Mango — .NET Microservices Learning Project](mango.md) — Course-based learning project with personal extensions
 
 - [Rooyesh — Path of the Sun](rooyesh-adventure.md) — Independent 3D crowdfunding learning game; playable prototype in active development.
+- [AgahBin — Real Estate Search and Listing Explorer](agahbin.md) — Independent full-stack project for Persian property search and location matching.

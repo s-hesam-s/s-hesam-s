@@ -27,3 +27,5 @@ AgahBin brings property search, a map, and listing details into one interface. I
 ## Verification and project status
 
 GitHub CI runs backend tests, the frontend production build, and Markdown checks. The repositories are maintained separately and remain private. The project has been verified in local development and CI.
+
+[Project directory](README.md) · [Back to profile](../README.md) · [LinkedIn projects](https://www.linkedin.com/in/hesam-shoushtarian/details/projects/)
